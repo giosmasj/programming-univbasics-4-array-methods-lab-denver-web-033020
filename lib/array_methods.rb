@@ -3,7 +3,7 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  aaray.sort
+  array.sort
 end
 
 def using_reverse(array)
@@ -15,7 +15,7 @@ def using_first(array)
 end
 
 def using_last(array)
-  arraylast
+  array.last
 end
 
 def using_size(array)
